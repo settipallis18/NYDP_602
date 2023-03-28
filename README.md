@@ -1,7 +1,7 @@
-# NYDP_602
+# NYPD_602
 
 ## Abstract: 
-In this data set we can notice the "NYDP crime data historic", Crime is an illegal act, we heard about of different types of crimes which were happend in the different places. Here i am going to classify the NYDP crime report, in this data set includes types of crimes, data and time of occurance, place where the crime was happend, and even the suspect gender, age, race as well as vicytim age, gender, race. The data what we have from the year of 2006 to 2019, So our main intention is define in the past decade is the crime rate is raised or decreased. At what time the crime rate is high, which type of crime happening oftenly. 
+In this data set we can notice the "NYPD crime data historic", Crime is an illegal act, we heard about of different types of crimes which were happend in the different places. Here i am going to classify the NYPD crime report, in this data set includes types of crimes, data and time of occurance, place where the crime was happend, and even the suspect gender, age, race as well as vicytim age, gender, race. The data what we have from the year of 2006 to 2019, So our main intention is define in the past decade is the crime rate is raised or decreased. At what time the crime rate is high, which type of crime happening oftenly. 
 
 ## Data Discription:
 This is an open source data, which is taken from the NYC open data. This data set cointains the crime data history of the New York City which contains the data from 2006 to 2019. All valid felony, misdemeanor, and violation offences recorded to the New York City Police Department (NYPD) are included in this collection.
